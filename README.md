@@ -1,1 +1,4 @@
-# hku-come-103-python-lab-2018
+# Python Programming
+- **University:** `Hasan Kalyoncu University`
+- **Lesson Code:** `COME103`
+- **Teacher:** `Doç. Dr. Muhammet Fatih HASOĞLU`
