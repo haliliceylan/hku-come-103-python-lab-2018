@@ -1,2 +1,2 @@
-# LAB_04
+# LAB_06
 - **Supervisor:** `Nihat Yılmaz Şimşek`
